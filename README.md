@@ -1,0 +1,3 @@
+-> Esse é um jogo básico de luta que ainda está passando por atualizações
+-> Feito utilizando HTML, CSS e Javascript
+-> Foi construido com o intuito apenas de praticar as linguagens de front-end e animações básicas
